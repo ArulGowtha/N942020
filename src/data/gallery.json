@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Milk",
+    "image_url": "https://www.aavinmadurai.com/img/maduraidairy/large/aavinmilk1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Grocery",
+    "image_url": "https://previews.123rf.com/images/monticello/monticello1306/monticello130600077/20329976-plastic-shopping-basket-with-variety-of-grocery-products-isolated-on-white.jpg"
+  },
+  {
+    "id": "3",
+    "name": "News_Paper",
+    "image_url": "https://1.bp.blogspot.com/-EWLzc9Pvlh4/XltlFRULg6I/AAAAAAAABdY/R1E9brMucGwGYhBHg8M3gNMelhFToC7SACNcBGAsYHQ/s1600/Tamil%2Bnadu%2Bnewspaper.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Sunflower_Oil",
+    "image_url": "https://anandhagrocery.com/wp-content/uploads/2019/02/fortune-refined-sunflower-oil-1l-pouch.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Salt",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61VASI018mL._SX569_.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Fruits",
+    "image_url": "https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/How-to-store-fruit-to-keep-it-fresh-resized.jpg  "
+  },
+  {
+    "id": "7",
+    "name": "Flower",
+    "image_url": "https://images.pexels.com/photos/736230/pexels-photo-736230.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500  "
+  },
+  {
+    "id": "8",
+    "name": "Vegetables",
+    "image_url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/powerhouse_vegetables_slideshow/650x350_powerhouse_vegetables_slideshow.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Paste",
+    "image_url": "https://www.wired.com/wp-content/uploads/archive/images/article/magazine/1510/st_colgate_f.jpg  "
+  },
+  {
+    "id": "10",
+    "name": "Meat",
+    "image_url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/headlines/food-safety/convincing-research-links-increasing-red-meat-intake-with-heightened-risk-of-death/9868511-1-eng-GB/Convincing-research-links-increasing-red-meat-intake-with-heightened-risk-of-death_wrbm_large.jpg  "
+  }
+]

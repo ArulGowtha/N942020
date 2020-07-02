@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites version="1">
+  <testsuite name="undefined" tests="1" failures="0" errors="0" timestamp="2020-06-18T08:09:28.419Z" time="1.145">
+    <testcase classname="" name="renders correctly" time="1.145"/>
+  </testsuite>
+  <testsuite name="undefined" tests="1" failures="0" errors="0" timestamp="2020-06-18T08:09:28.419Z" time="2.433">
+    <testcase classname="" name="renders correctly" time="2.433"/>
+  </testsuite>
+  <testsuite name="undefined" tests="1" failures="0" errors="0" timestamp="2020-06-18T08:09:28.419Z" time="0.525">
+    <testcase classname="" name="renders correctly" time="0.525"/>
+  </testsuite>
+  <testsuite name="undefined" tests="1" failures="0" errors="0" timestamp="2020-06-18T08:09:28.419Z" time="0.765">
+    <testcase classname="" name="renders correctly" time="0.765"/>
+  </testsuite>
+  <testsuite name="undefined" tests="4" failures="0" errors="0" timestamp="2020-06-18T08:09:28.419Z" time="0.7730000000000001">
+    <testcase classname="" name="renders correctly" time="0.662"/>
+    <testcase classname="" name="renders correctly" time="0.031"/>
+    <testcase classname="" name="renders correctly" time="0.011"/>
+    <testcase classname="" name="renders correctly" time="0.069"/>
+  </testsuite>
+</testsuites>
