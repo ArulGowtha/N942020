@@ -71,7 +71,7 @@
     "setimmediate": "^1.0.5",
     "simple-swizzle": "^0.2.2",
     "toggle-switch-react-native": "^2.1.0",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.24",
     "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
