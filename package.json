@@ -42,7 +42,7 @@
     "react": "16.11.0",
     "react-clone-referenced-element": "^1.1.0",
     "react-is": "^16.13.1",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-actionsheet": "^2.4.2",
     "react-native-animated-nav-tab-bar": "^2.0.3",
     "react-native-camera": "^3.26.0",
